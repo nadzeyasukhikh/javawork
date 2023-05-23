@@ -7,9 +7,12 @@ public class Third {
                 130,
                 2023,
                 "audi");
-        System.out.println(car1.power);
-        System.out.println(car1.year);
-        System.out.println(car1.fabric);
+
+
+        car1.printCarProperties();
+
+        System.out.println();
+
 
 
 //        Car car2 = new Car(
