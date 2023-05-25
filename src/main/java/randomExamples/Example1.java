@@ -27,11 +27,16 @@ public class Example1 {
 
         double y = r.nextDouble();
 
-        System.out.println(q);
-        System.out.println(w);
-        System.out.println(e);
-        System.out.println(t);
-        System.out.println(y);
+//        System.out.println(q);
+//        System.out.println(w);
+//        System.out.println(e);
+//        System.out.println(t);
+//        System.out.println(y);
+        System.out.println(r.nextInt(0,100));
+        System.out.println(r.nextInt(0,100));
+        System.out.println(r.nextInt(0,100));
+        System.out.println(r.nextInt(0,100));
+        System.out.println(r.nextInt(0,100));
 
     }
 }
