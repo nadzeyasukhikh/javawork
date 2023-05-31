@@ -1,8 +1,8 @@
-package JavaHomeWork.Scanner;
+package JavaHomeWork;
 
 import java.util.Scanner;
 
-public class HomeWork1 {
+public class HomeWorkScanner {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите число: ");

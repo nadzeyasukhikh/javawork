@@ -6,9 +6,10 @@ public class Example1 {
         boolean freeTime = true;
 
 
-        if (freeTime == true) {
+        if (freeTime) {
 
             System.out.println("Идем на ланч");
+
         }
     }
 }
