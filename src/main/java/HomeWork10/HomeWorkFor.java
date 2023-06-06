@@ -9,10 +9,12 @@ public class HomeWorkFor {
 
                 for (int i = 0; i < limit; i++) {
 
-                    number *= 2;
+
 
                     System.out.print(number + " ");
 
+
+                    number *= 2;
                 }
             }
         }
